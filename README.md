@@ -1,27 +1,25 @@
-## Hi 👋, I'm 3kh0
+## Hi 👋, I'm Dapper!
 
-### "It's not a bug, it's a feature" - Andrew Tanenbaum
+### "How much wood could a woodchuck chuck if a woodchuck could chuck wood?" - Unknown
 
 ```json
 {
-  "name": "Echo",
-  "age": 14,
-  "intrests": ["programming", "gaming", "foss software"],
-  "operatingSystem": "Kali Linux",
+  "name": "Dapper",
+  "age": "How old is your mom?",
+  "intrests": ["programming", "gaming", "reverse engineering"],
+  "operatingSystem": "Windows 11",
   "browser": "Firefox",
-  "browserExtensions": ["uBlock Origin", "Violentmonkey", "NoScript"],
-  "programmingLanguages": ["Javascript", "HTML", "TypeScript", "Python", "CSS", "Markdown"],
-  "editor": "VSCodium",
+  "browserExtensions": ["uBlock Origin", "GrammarTool"],
+  "programmingLanguages": ["Javascript", "HTML", "Python", "CSS", "Markdown"],
+  "editor": "VSCode",
   "contact": {
-    "mastodon": "@3kh0@defcon.social",
-    "emails": ["echo-the-coder@tuta.io", "3kh0@riseup.net", "3kh0@proton.me"],
+    "emails": ["dapperls123456@gmail.com"],
     "discord": {
-      "server": "https://discord.gg/3kh0",
-      "username": "3kh0_#6969"
+      "username": "DapperLS#7582"
     }
   },
-  "learning": "Security+",
+  "learning": "C++",
   "hasBrainDamage": true
 }
 ```
-<img src="https://komarev.com/ghpvc/?username=3kh0&label=Amount of eyeballs that saw this&color=001eff&style=flat" alt="3kh0" />
+<img src="https://komarev.com/ghpvc/?username=DapperLS-Bot-Dev&label=Amount of eyeballs that saw this&color=001eff&style=flat" alt="DapperLS" />
